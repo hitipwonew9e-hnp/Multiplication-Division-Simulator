@@ -1,0 +1,40 @@
+body{
+    background-color:cornsilk;
+    text-align: center;
+}
+.First{
+font-size: 8rem;
+}
+.Second{
+    font-size:8rem;
+}
+.mnoz{
+    font-size: 9rem;
+}
+.ef{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: -10rem;
+    margin-top: -8rem;
+  
+}
+.conclusion{
+    width:50%;
+   
+    font-size:8rem;
+    text-align: center;
+
+}
+.p-3{
+    margin-top: -0.1rem;
+   font-size: 3rem;
+   text-align: center; 
+}
+.btn{
+    font-size: 3rem;
+position: relative;
+margin-top: -2.5rem;
+
+    
+}
